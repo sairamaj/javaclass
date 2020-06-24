@@ -1,2 +1,8 @@
 Command to get this on to my computer is:
     git clone <url>
+
+I did clone successfully . Now I am going add some stuff and put this the cloud again
+
+git add *
+git commit -m "new commands added"
+git push
